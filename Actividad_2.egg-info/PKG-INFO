@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: Actividad_2
+Version: 0.0.2
+Summary: Evidencia de aprendizaje Numero 2
+Author: Mauricio Alejandro Gonzalez Guerra
+Author-email: mauricio.gonzalez@est.iudigital.edu.co
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: Scipy
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary
