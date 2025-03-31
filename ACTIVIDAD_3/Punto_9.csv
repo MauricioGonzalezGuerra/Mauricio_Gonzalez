@@ -1,0 +1,15 @@
+,0
+0,"<bound method DataFrame.info of         Unnamed: 0 country  ...             variety               winery
+10              10      US  ...  Cabernet Sauvignon   Kirkland Signature
+12              12      US  ...  Cabernet Sauvignon     Louis M. Martini
+14              14      US  ...          Chardonnay             Mirassou
+23              23      US  ...              Merlot              Bianchi
+25              25      US  ...          Pinot Noir  Castello di Amorosa
+...            ...     ...  ...                 ...                  ...
+129942      129942      US  ...  Cabernet Sauvignon             Arrowood
+129945      129945      US  ...        Chenin Blanc            Birichino
+129949      129949      US  ...          Chardonnay        Flora Springs
+129950      129950      US  ...           Zinfandel               Hendry
+129952      129952      US  ...           Zinfandel              Houdini
+
+[36247 rows x 14 columns]>"
